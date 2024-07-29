@@ -1,7 +1,7 @@
 <des>
-<t>
+
 Use the hammer to display info about entities/authorization
-</t>
+
 </des>
 
 <perm>
