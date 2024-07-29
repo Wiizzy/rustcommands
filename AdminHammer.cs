@@ -1,3 +1,9 @@
+<des>
+<t>
+Use the hammer to display info about entities/authorization
+</t>
+</des>
+
 <perm>
 1. |adminhammer.allow|   <t>Allows player to use the admin hammer</t>
 </perm>
