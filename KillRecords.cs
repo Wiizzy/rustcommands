@@ -1,6 +1,6 @@
 <perm>
-1. |killrecords.admin| -- <t>Gives permission to use all admin chat commands</t>
-2. |killrecords.killchat| -- <t>Allows player to turn on/off kill messages</t>
+1.|killrecords.admin| <t>Gives permission to use all admin chat commands</t>
+2.|killrecords.killchat|  <t>Allows player to turn on/off kill messages</t>
 </perm>
 
 <comm>
