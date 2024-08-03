@@ -1,5 +1,5 @@
 <perm>
-1. |recyclemanager.admin| -- <t>Allows all commands, and allows using the administration panel while viewing a recycler.</t>
+1. |recyclemanager.admin| <t>Allows all commands, and allows using the administration panel while viewing a recycler.</t>
 </perm>
 
 <comm>
